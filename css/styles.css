@@ -1,0 +1,39 @@
+
+    body{
+    background-color: #F8FFD2;
+    }
+    
+    hr{
+        border-style: none; 
+        border-top-style: dotted; 
+        border-color: black 
+        border-width: 3px;
+        width: 30px 
+       }
+      }
+    h1, h2{
+        color: #092635;
+    }
+
+    img{
+     width: 200px;
+    }
+
+a:link {
+    color: blue;
+  }
+  
+  a:visited {
+    color: darkblue;
+  }
+  
+  a:hover {
+    color:  #092635 ;
+    font-size: 14px ;
+  }
+  
+  a:active {
+    color: darkcyan;
+  }
+
+  
