@@ -1,0 +1,31 @@
+
+    body{
+    background-color: #F8FFD2;
+    }
+    
+    hr{
+        border-style: none; 
+        border-top-style: dotted; 
+        border-color: black 
+        border-width: 3px;
+        width: 30px 
+       }
+    h1, h2{
+        color: #092635;
+    }
+
+    img{
+     width: 200px;
+     background-color: #F8FFD2;
+    }
+    a{
+      color: #219C90;
+      font-family: 'Montserrat', sans-serif;
+      margin: 10px;
+      text-decoration: none;
+    }
+    
+    a:hover {
+      font-size: 19px ;
+      color: #EAF6F6;
+    }
